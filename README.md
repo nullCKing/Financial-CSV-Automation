@@ -5,10 +5,15 @@ A program that automates a variety of CSV creation tasks for stock market resear
 
 ## Requirements
 csvtickerlist==0.0.2
+
 customtkinter==4.6.3
+
 pandas==1.5.0
+
 XlsxWriter==3.0.3
+
 yahoofinancials==1.6
+
 yfinance==0.1.86
 
 
