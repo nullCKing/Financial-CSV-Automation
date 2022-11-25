@@ -3,6 +3,15 @@
 A program that automates a variety of CSV creation tasks for stock market research and/or algorithmic trading.
 
 
+## Requirements
+csvtickerlist==0.0.2
+customtkinter==4.6.3
+pandas==1.5.0
+XlsxWriter==3.0.3
+yahoofinancials==1.6
+yfinance==0.1.86
+
+
 ## Option 1: Create detailed ticker files
 **This creates individual files for each ticker symbol**
 ![detailedfiles](https://user-images.githubusercontent.com/113802864/204017327-463f5b83-c170-4859-871c-99717fba2c55.gif)
